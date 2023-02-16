@@ -1,4 +1,4 @@
 # 忽略指定文件夹
 test/
 # 忽略指定文件
-index2.html
+# index2.html
